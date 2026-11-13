@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630"><rect width="1200" height="630" fill="#E5E8E5"/>
+<rect x="42" y="45" width="1116" height="540" rx="32" fill="#F3F4F1"/>
+<rect x="66" y="65" width="1068" height="83" rx="25" fill="#FFFFFF"/>
+<g transform="translate(86,75) scale(.92)"><rect x="0" y="0" width="64" height="64" rx="18" fill="#11835D"/>
+<circle cx="32" cy="32" r="20.5" fill="none" stroke="#FFFFFF" stroke-width="3.5" opacity="0.93" />
+<path d="M18 38.5 L27 31 L33 35 L45.5 22.5" fill="none" stroke="#FFFFFF" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="18" cy="38.5" r="2.8" fill="#FFFFFF"/><circle cx="27" cy="31" r="2.8" fill="#FFFFFF"/><circle cx="33" cy="35" r="2.8" fill="#FFFFFF"/><circle cx="45.5" cy="22.5" r="2.8" fill="#FFFFFF"/></g>
+<text x="168" y="113" font-family="Inter, Geist, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-.9" fill="#15211D">MarketWatch-ID</text>
+<text x="169" y="132" font-family="Inter, Geist, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#11835D">LITE / SURVEILLANCE</text>
+<rect x="978" y="88" width="127" height="36" rx="18" fill="#E1F3EA"/>
+<text x="1041" y="112" text-anchor="middle" font-family="Inter, Geist, Arial, sans-serif" font-size="13" font-weight="700" fill="#11835D">DEMO ONLY</text>
+<text x="92" y="229" font-family="Inter, Geist, Arial, sans-serif" font-size="47" font-weight="650" letter-spacing="-2.1" fill="#15211D">Market anomaly</text>
+<text x="92" y="281" font-family="Inter, Geist, Arial, sans-serif" font-size="47" font-weight="650" letter-spacing="-2.1" fill="#15211D">monitoring.</text>
+<text x="94" y="321" font-family="Inter, Geist, Arial, sans-serif" font-size="18" fill="#66736D">Price &amp; volume surveillance</text>
+<rect x="90" y="366" width="330" height="172" rx="24" fill="#FFFFFF"/>
+<text x="115" y="409" font-family="Inter, Geist, Arial, sans-serif" font-size="16" fill="#66736D">Synthetic demo</text>
+<text x="115" y="471" font-family="Inter, Geist, Arial, sans-serif" font-size="56" font-weight="650" fill="#15211D">BBCA</text>
+<text x="115" y="506" font-family="Inter, Geist, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="2" fill="#11835D">RULE-BASED ENGINE</text>
+<rect x="464" y="188" width="650" height="350" rx="25" fill="#FFFFFF"/>
+<text x="489" y="232" font-family="Inter, Geist, Arial, sans-serif" font-size="20" font-weight="650" fill="#15211D">Surveillance overview</text>
+<text x="1101" y="231" text-anchor="end" font-family="Inter, Geist, Arial, sans-serif" font-size="13" fill="#66736D">Illustrative chart</text>
+<svg x="491" y="264" width="620" height="170" viewBox="0 0 620 170">
+<g stroke="#E6EAE7" stroke-dasharray="4 7"><line x1="0" y1="42" x2="612" y2="42"/><line x1="0" y1="91" x2="612" y2="91"/><line x1="0" y1="141" x2="612" y2="141"/></g>
+<polyline points="0,112 35,110 65,107 95,106 125,98 155,93 185,86 215,73 245,69 275,58 305,50 335,64 365,59 395,70 425,95 455,91 485,109 515,127 545,123 575,120 605,111" fill="none" stroke="#11835D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="305" cy="50" r="7" fill="#D89A39" stroke="white" stroke-width="3"/><circle cx="515" cy="127" r="7" fill="#C95548" stroke="white" stroke-width="3"/>
+</svg>
+<line x1="489" y1="461" x2="1089" y2="461" stroke="#EAEDEA"/>
+<text x="489" y="495" font-family="Inter, Geist, Arial, sans-serif" font-size="14" fill="#66736D">Anomaly evidence</text>
+<rect x="890" y="478" width="108" height="29" rx="14" fill="#FAE8D0"/>
+<text x="944" y="498" text-anchor="middle" font-family="Inter, Geist, Arial, sans-serif" font-size="12" font-weight="700" fill="#935B16">PRICE</text>
+<rect x="1012" y="478" width="80" height="29" rx="14" fill="#F7DBD6"/>
+<text x="1052" y="498" text-anchor="middle" font-family="Inter, Geist, Arial, sans-serif" font-size="12" font-weight="700" fill="#A7372B">VOLUME</text>
+<text x="89" y="568" font-family="Inter, Geist, Arial, sans-serif" font-size="13" fill="#66736D">PORTFOLIO PROJECT  ·  NOT AN OFFICIAL EXCHANGE PRODUCT</text></svg>

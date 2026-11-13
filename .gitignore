@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+.env
+*.db
+*.sqlite
+*.sqlite3
+data/private/*
+!data/private/.gitkeep
+
+# Local development tools
+.agents/
+
+# Environment overrides and secrets
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
